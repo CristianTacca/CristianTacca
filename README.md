@@ -1,4 +1,8 @@
-### Ola! Meu nome e Cristian Tacca | Hi there my name is Cristian Tacca 👋
+<h1 align='center'> Ola! Meu nome e Cristian Tacca | Hi there my name is Cristian Tacca 👋 </h1>
+
+<br/>
+
+<h3 align='center'> Hoje em dia | Nowadays </h3>
 
 - 🔭 Hoje estou desempregado, mas procuro emprego na area de Full-Stack, Front-end ou Back-end | Nowadays i'm searching a job in Full-Stack, Front-end or Back-end.
 - 🌱 Estudando NodeJS | Studying NodeJS
@@ -7,6 +11,9 @@
 - 📫 Contate-me no email: christacca@gmail.com | Reach me on email: christacca@gmail.com
 - 😄 Pronomes: ele/dele | Pronouns: he/him
 
+<br/>
+
+<h3 align='center' >📈 Status | Stats </h3>
 
 <div>
   <a href='https://github.com/CristianTacca'>
@@ -14,8 +21,9 @@
   <img height='180em' src='https://github-readme-stats.vercel.app/api/top-langs/?username=CristianTacca&layout=compact&langs_count=16&theme=github_dark' />
 </div>
 
+<br/>
 	
-### 🛠 Tecnologias | Techs
+<h3 align='center' >💻 Tecnologias | Techs</h3>
 	
 <div style='display: inline_block'>
 	<img align='center' alt='Cristian-Linux' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
@@ -30,23 +38,31 @@
 	<img align='center' alt='Cristian-SQLAlchemy' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlalchemy/sqlalchemy-original.svg" />
 	<img align='center' alt='Cristian-Sqlite' height='50' width='60' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
 </div>
+
+<br/>
 	
-### 🌱 Aprendendo | Learning
+<h3> 🌱 Aprendendo | Learning </h3>
+
 <div style='display: inline-block'>
 	<img align='center' alt='Cristian-Node_js' height='80' width='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
 	<img align='center' alt='Cristian-Docker' height='80' width='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 	<img align='center' alt='Cristian-Kubernetes' height='80' width='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 </div>
 	
+<br/>
 
-### 📟 Redes Sociais | Social Medias:
+<h3> 📟 Redes Sociais | Social Medias </h3>
+	
 <div>
 	<a href='https://www.linkedin.com/in/cristian-tacca-837522182/' alt='Linkedin-logo' target='_blank'><img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' /></a>
 	<a href='https://www.instagram.com/cristiantacca/' target='_blank'><img alt='Instagram-logo' src='https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white' /></a>
 	<a href='https://twitter.com/Chris_tacca' target='_blank'><img alt='Twitter-logo' src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' /></a>
 </div>
 
-### 📫 Contato | Contact:
+<br/>
+
+<h3> 📫 Contato | Contact </h3>
+	
 <div>
 	<a href='mailto:christacca@gmail.com' target='_blank'><img alt='Gmail-logo' src='https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white' /></a>	
 </div>
