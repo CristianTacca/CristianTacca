@@ -45,7 +45,6 @@
 <h3> 🌱 Aprendendo | Learning </h3>
 
 <div style='display: inline-block'>
-	
 	<img align='center' alt='Cristian-Docker' height='80' width='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 	<img align='center' alt='Cristian-Kubernetes' height='80' width='100' src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" />
 </div>
