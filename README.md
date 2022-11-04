@@ -5,7 +5,6 @@
 <h3 align='center'> Hoje em dia | Nowadays </h3>
 
 - 🔭 Hoje estou desempregado, mas procuro emprego na area de Full-Stack, Front-end ou Back-end | Nowadays i'm searching a job in Full-Stack, Front-end or Back-end.
-- 🌱 Estudando NodeJS | Studying NodeJS
 - 👯 Estou procurando projetos open source voltados a causas sociais. | I’m looking to collaborate on open source projects social causes.
 - 🤔 Estou procurando ajuda para conseguir um emprego | I’m looking for help with getting a job.
 - 📫 Contate-me no email: christacca@gmail.com | Reach me on email: christacca@gmail.com
